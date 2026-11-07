@@ -30,7 +30,7 @@ export default function Contact() {
                   Email
                 </p>
                 <p className="text-sm font-semibold">
-                  filip...@ncf.edu.ph
+                  ldeasis...@ncf.edu.ph
                 </p>
               </div>
             </CardContent>
@@ -83,7 +83,7 @@ export default function Contact() {
                   </label>
                   <Input
                     id="name"
-                    placeholder="Fr... Imperial"
+                    placeholder="ld... De Asis Jr."
                     required
                   />
                 </div>
@@ -98,7 +98,7 @@ export default function Contact() {
                   <Input
                     id="email"
                     type="email"
-                    placeholder="filip...@ncf.edu.ph"
+                    placeholder="ldeasis...@ncf.edu.ph"
                     required
                   />
                 </div>
