@@ -4,7 +4,7 @@ import { GraduationCap, Award } from "lucide-react";
 const educationList = [
   {
     degree: "BS in Information Technology",
-    institution: "Ateneo de Naga University",
+    institution: "Naga College Foundation inc.",
     period: "2020 - 2024",
     description: "Specialized in Web Development, Database Management Systems, and Software Engineering principles.",
     achievements: [
@@ -14,13 +14,13 @@ const educationList = [
     ],
   },
   {
-    degree: "Senior High School - Spoertstack (Sport Strand)",
-    institution: "University of Nueva Caceres",
+    degree: "Senior High School - Sportstack (Sport Strand)",
+    institution: "Naga College Foundation inc.",
     period: "2018 - 2020",
     description: "Focused on computer programming basics, web design fundamentals, and hardware troubleshooting.",
     achievements: [
       "With Honors Graduate",
-      "Best in Computer Programming Award",
+      "Best in Computer Programming ",
       "NC II Certified in Computer Systems Servicing",
     ],
   },
